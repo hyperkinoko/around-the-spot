@@ -105,8 +105,10 @@ public class Player {
                     break;
                 case 3: // 3が出たとき
                     sum += 2; // 2点足す
+                    break;
                 case 5: // 5が出たとき
                     sum += 4; // 4点足す
+                    break;
                 // defaultを書かなくてもいいが、
                 // それ以外の時を忘れずに考慮していますよ、
                 // その結果何もしてませんよというアピール
